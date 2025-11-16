@@ -1,0 +1,14 @@
+Return-Path: <hr-team@googIe-careers-jobs.com>
+Received: from mailserver92.xyz (mailserver92.xyz [109.185.222.14])
+    by smtp.gmail.com with ESMTP id abc123def456;
+    Thu, 14 Nov 2025 10:31:24 +0530 (IST)
+Authentication-Results: mx.google.com;
+    spf=fail (google.com: domain of hr-team@googIe-careers-jobs.com does not designate 109.185.222.14 as permitted sender)
+    dkim=fail (signature verification failed)
+    dmarc=fail (p=REJECT sp=REJECT dis=NONE)
+Received-SPF: fail (google.com: domain of hr-team@googIe-careers-jobs.com does not designate 109.185.222.14 as permitted sender) client-ip=109.185.222.14;
+Message-ID: <20251114-google-careers-offer@mailserver92.xyz>
+Mime-Version: 1.0
+From: Google Careers <hr-team@googIe-careers-jobs.com>
+To: undisclosed-recipients:;
+Subject: Congratulations! You Have Been Selected for a Job at Google
